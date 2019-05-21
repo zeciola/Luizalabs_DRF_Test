@@ -8,6 +8,7 @@ pipenv = "*"
 pytest = "*"
 coverage = "*"
 requests = "*"
+ipython = "*"
 
 [packages]
 django = "*"
