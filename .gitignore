@@ -498,3 +498,4 @@ modules.xml
 # Pyre type checker
 
 # End of https://www.gitignore.io/api/code,pydev,django,python,pycharm,pycharm+all,pycharm+iml,jupyternotebook
+\.vscode/
