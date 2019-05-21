@@ -1,0 +1,22 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pipenv = "*"
+pytest = "*"
+coverage = "*"
+requests = "*"
+
+[packages]
+django = "*"
+djangorestframework = "*"
+markdown = "*"
+django-filter = "*"
+coreapi = "*"
+django-crispy-forms = "*"
+django-guardian = "*"
+
+[requires]
+python_version = "3.7"
